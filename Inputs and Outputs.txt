@@ -1,0 +1,28 @@
+___________________________
+	  INPUTS
+___________________________
+
+Inside Elevator Buttons
+- Floor 1 Button
+- Floor 2 Button
+- Floor 3 Button
+- Floor 4 Button
+- Close Door Button
+- Open Door Button
+
+Outside Elevator Buttons
+
+- Floor 1 Button
+- Floor 2 Button
+- Floor 3 Button
+- Floor 4 Button
+___________________________
+	  OUTPUTS
+___________________________
+
+Sequence
+- Compare current floor to desired floor
+- Then enforce closure of doors
+- Then move up, down or remain on current floor
+- Then stop at desired floor
+- Then open doors
